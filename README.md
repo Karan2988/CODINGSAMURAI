@@ -1,5 +1,4 @@
 # CODINGSAMURAI
-Here's a well-structured README file for your GitHub repository "CODING SAMURAI INTERNSHIP TASK" based on the document you uploaded:
 
 Coding Samurai Internship Task
 🚀 About Coding Samurai
